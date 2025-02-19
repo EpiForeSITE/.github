@@ -1,12 +1,11 @@
-## Welcome to the ForeSITE Project
+## Welcome to ForeSITE
 
-<!--
+Forecasting and Surveillance of Infectious Threats and Epidemics (ForeSITE) is a CDC Center for Integration in the Center for Forecasting and Outbreak Analytics (CFA) Insight Net.
 
-**Here are some ideas to get you started:**
+The goal of ForeSITE is to:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. Work collaboratively with local and state health departments and healthcare organizations to implement and iteratively refine tools for outbreak analytics and infectious disease modeling.
+2. Evaluate the usability and usefulness of these analytic and modeling tools for public health and healthcare decision-making.
+3. Partner with CDC and other Centers in the CFA Centers for Outbreak Analytics and Disease Modeling Network to enhance national capability to respond to infectious disease threats and public health emergencies.
+
+For more information, see [our website](https://epiforesite.github.io/ForeSITE_Website/) or get involved with one of our [software projects](https://github.com/EpiForeSITE/software).
